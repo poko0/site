@@ -1,0 +1,34 @@
+body {
+    background-color: #FF7A00;
+}
+h1 {
+    text-align: center;
+    color: #000000;
+    background-color: #5FC0CE;
+}
+img{
+    width: 200px;
+    height: 140px;
+}
+p{
+    text-align: center;
+}
+footer{
+    background: #5FC0CE;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+nav a {
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 5px inset #5FC0CE;
+    margin: 50px;
+}
+nav {
+    text-align: center;
+    margin: 20px;
+}
