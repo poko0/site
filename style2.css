@@ -1,0 +1,25 @@
+body {
+    background-color: #FF7A00;
+}
+nav a {
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 5px inset #5FC0CE;
+    margin: 50px;
+}
+nav {
+    text-align: center;
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+img{
+    width: 200px;
+    height: 140px;
+}
+p{
+    text-align: center;
+}
